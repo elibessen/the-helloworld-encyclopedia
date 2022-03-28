@@ -1,6 +1,27 @@
 # The helloworld encyclopedia
 
-> A repo with everysingle colour coded language 
+![License](https://img.shields.io/github/license/LCordial/the-helloworld-encyclopedia)
+![Issues](https://img.shields.io/github/issues/LCordial/the-helloworld-encyclopedia)
+
+> An encyclopedia with every single colour coded language and hello world code snippets
+
+# Contribution
+
+Before contributing to this massive project, look through the [the checklist](https://github.com/LCordial/the-helloworld-encyclopedia/blob/main/CHECKLIST.md) to see if your language has already been done.
+
+Files must follow the standards below:
+- `<language>.<file extension>`
+- The date the file was created commented within the file
+
+The [issue tracker](https://github.com/LCordial/the-helloworld-encyclopedia/issues) is where bug reports and feature requests are.
+
+* Please **do not** use the issue tracker for personal requests. 
+
+* Please **do not** troll issues. Keep the discussion on topic and respect the opinions of others.
+
+* Please **do not** post comments consisting of ":thumbsup:" or similar. Use [reactions](https://blog.github.com/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/) instead.
+
+If you don't feel like contributing, please at least star this project :)
 
 # People
 
@@ -41,6 +62,10 @@
       </td>
     </tr>
 </table>
+
+## Copyright and license
+
+Code copyright 2020-2022 [Eli B](https://github.com/LCordial/the-helloworld-encyclopedia/graphs/contributors) Code is released under [MIT License](https://github.com/LCordial/the-helloworld-encyclopedia/blob/main/LICENSE)
 
 ### Thanks to
 - https://github.com/ozh/github-colors <br>
