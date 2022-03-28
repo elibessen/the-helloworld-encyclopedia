@@ -1,4 +1,5 @@
-# github-rainbow
+# the-helloworld-encyclopedia
+
 
 > A repo with everysingle colour coded language 
 
