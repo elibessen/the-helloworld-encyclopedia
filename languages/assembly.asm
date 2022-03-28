@@ -1,0 +1,11 @@
+;28/3/2022
+org 0x100
+
+mov dx, msg
+mov ah, 9
+int 0x21
+
+mov ah, 0x4C
+int 0x21
+
+msg db 'Hello, World!', 0x0D, 0x0A, '$'
