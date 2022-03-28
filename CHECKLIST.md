@@ -1,12 +1,13 @@
-# Language checklist
+# Language Checklist
 
+***30** out of **553***
  - [ ] 1C Enterprise
  - [ ] 2-Dimensional Array
  - [ ] 4D
  - [x] ABAP
  - [ ] ABAP CDS
  - [x] ActionScript
- - [ ] Ada
+ - [x] Ada
  - [ ] Adobe Font Metrics
  - [ ] Agda
  - [ ] AGS Script
@@ -15,7 +16,7 @@
  - [ ] Alloy
  - [ ] Altium Designer
  - [ ] AMPL
- - [ ] AngelScript
+ - [x] AngelScript
  - [ ] ANTLR
  - [ ] ApacheConf
  - [ ] Apex
@@ -28,7 +29,7 @@
  - [ ] ASL
  - [ ] ASP.NET
  - [ ] AspectJ
- - [ ] Assembly
+ - [x] Assembly
  - [ ] Astro
  - [ ] Asymptote
  - [ ] ATS
@@ -54,9 +55,9 @@
  - [ ] Boogie
  - [x] Brainfuck
  - [ ] Brightscript
- - [ ] C
- - [ ] C#
- - [ ] C++
+ - [x] C
+ - [x] C#
+ - [x] C++
  - [ ] C2hs Haskell
  - [ ] Cabal Config
  - [ ] Cairo
@@ -94,7 +95,7 @@
  - [ ] Csound Score
  - [x] CSS
  - [ ] CSV
- - [ ] Cuda
+ - [x] Cuda
  - [ ] CUE
  - [ ] Curry
  - [ ] CWeb
@@ -130,7 +131,7 @@
  - [ ] EQ
  - [ ] Erlang
  - [ ] Euphoria
- - [ ] F#
+ - [x] F#
  - [ ] F*
  - [ ] Factor
  - [ ] Fancy
@@ -167,7 +168,7 @@
  - [ ] Gherkin
  - [ ] Git Config
  - [ ] Gleam
- - [ ] GLSL
+ - [x] GLSL
  - [ ] Glyph
  - [ ] Gnuplot
  - [ ] Go
@@ -193,7 +194,7 @@
  - [ ] HLSL
  - [ ] HolyC
  - [ ] hoon
- - [ ] HTML
+ - [x] HTML
  - [ ] HTML+ECR
  - [ ] HTML+EEX
  - [ ] HTML+ERB
@@ -220,7 +221,7 @@
  - [ ] Java
  - [ ] Java Properties
  - [ ] Java Server Pages
- - [ ] JavaScript
+ - [x] JavaScript
  - [ ] JavaScript+ERB
  - [ ] Jest Snapshot
  - [ ] JFlex
@@ -298,7 +299,7 @@
  - [ ] Moocode
  - [ ] MoonScript
  - [ ] Motoko
- - [ ] Motorola 68K Assembly
+ - [x] Motorola 68K Assembly
  - [ ] MQL4
  - [ ] MQL5
  - [ ] MTML
@@ -355,8 +356,8 @@
  - [ ] Pawn
  - [ ] PEG.js
  - [ ] Pep8
- - [ ] Perl
- - [ ] PHP
+ - [x] Perl
+ - [x] PHP
  - [ ] PicoLisp
  - [ ] PigLatin
  - [ ] Pike
@@ -371,14 +372,14 @@
  - [ ] PowerShell
  - [ ] Prisma
  - [ ] Processing
- - [ ] Prolog
+ - [x] Prolog
  - [ ] Promela
  - [ ] Propeller Spin
  - [ ] Pug
  - [ ] Puppet
  - [ ] PureBasic
  - [ ] PureScript
- - [ ] Python
+ - [x] Python
  - [ ] Python traceback
  - [ ] q
  - [ ] Q#
@@ -388,7 +389,7 @@
  - [ ] R
  - [ ] Racket
  - [ ] Ragel
- - [ ] Raku
+ - [x] Raku
  - [ ] RAML
  - [ ] Rascal
  - [ ] RDoc
@@ -399,7 +400,7 @@
  - [ ] Redcode
  - [ ] Regular Expression
  - [ ] Ren'Py
- - [ ] RenderScript
+ - [x] RenderScript
  - [ ] ReScript
  - [ ] reStructuredText
  - [ ] REXX
@@ -414,7 +415,7 @@
  - [ ] RPGLE
  - [ ] Ruby
  - [ ] RUNOFF
- - [ ] Rust
+ - [x] Rust
  - [ ] Sage
  - [ ] SaltStack
  - [ ] SAS
@@ -511,7 +512,7 @@
  - [ ] X10
  - [ ] xBase
  - [ ] XC
- - [ ] XML
+ - [x] XML
  - [ ] XML Property List
  - [ ] Xojo
  - [ ] Xonsh

@@ -17,6 +17,8 @@ def find_file(extension, directory):
         return " "
 
 def make_checklist(list, ref, text):
+    total = len(list)
+    tally = 0
     for i in list:
         exists = " "
         try:
@@ -25,10 +27,11 @@ def make_checklist(list, ref, text):
             continue
         for j in extensions:
             exists = find_file(j, HELLO_WORLD_DIR)
-            if exists == "X": break
-        text += f" - [{exists}] {i}\n"
-
-    return text
+            if exists == "x":
+                tally += 1
+                break
+        text += f" - [{exists}] {i}\n" 
+    return text, tally, total
 
 if __name__ == "__main__":
     language_ref    = open(LANGUAGE_REF_FILE, "r")
@@ -37,12 +40,13 @@ if __name__ == "__main__":
     language_ref    = yaml.load(language_ref, Loader=yaml.SafeLoader)
     language_list   = list(json.load(language_list).keys())
 
-    print(len(language_list))
-
-    checklist_text = "# Language checklist\n\n"
+    checklist_text  = ""
     
-    checklist_text = make_checklist(language_list, language_ref, checklist_text)
-
-    checklist_file = open(f"{CHECKLIST_OUT_DIR}{CHECKLIST_FILE_NAME}", "w")
+    checklist_out   = make_checklist(language_list, language_ref, checklist_text)
+    checklist_text += "# Language Checklist\n\n"
+    checklist_text += f"***{checklist_out[1]}** out of **{checklist_out[2]}***\n"
+    checklist_text += checklist_out[0]
+    
+    checklist_file  = open(f"{CHECKLIST_OUT_DIR}{CHECKLIST_FILE_NAME}", "w")
     checklist_file.write(checklist_text)
     checklist_file.close()
