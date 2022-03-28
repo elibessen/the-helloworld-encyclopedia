@@ -1,0 +1,533 @@
+# Language checklist
+
+ - [ ] 1C Enterprise
+ - [ ] 2-Dimensional Array
+ - [ ] 4D
+ - [x] ABAP
+ - [ ] ABAP CDS
+ - [x] ActionScript
+ - [ ] Ada
+ - [ ] Adobe Font Metrics
+ - [ ] Agda
+ - [ ] AGS Script
+ - [ ] AIDL
+ - [ ] AL
+ - [ ] Alloy
+ - [ ] Altium Designer
+ - [ ] AMPL
+ - [ ] AngelScript
+ - [ ] ANTLR
+ - [ ] ApacheConf
+ - [ ] Apex
+ - [ ] API Blueprint
+ - [ ] APL
+ - [ ] Apollo Guidance Computer
+ - [ ] AppleScript
+ - [ ] Arc
+ - [ ] AsciiDoc
+ - [ ] ASL
+ - [ ] ASP.NET
+ - [ ] AspectJ
+ - [ ] Assembly
+ - [ ] Astro
+ - [ ] Asymptote
+ - [ ] ATS
+ - [ ] Augeas
+ - [ ] AutoHotkey
+ - [ ] AutoIt
+ - [ ] Avro IDL
+ - [ ] Awk
+ - [ ] Ballerina
+ - [ ] BASIC
+ - [ ] Batchfile
+ - [x] Beef
+ - [ ] Befunge
+ - [ ] BibTeX
+ - [ ] Bicep
+ - [ ] Bison
+ - [ ] BitBake
+ - [ ] Blade
+ - [ ] BlitzBasic
+ - [ ] BlitzMax
+ - [ ] Bluespec
+ - [ ] Boo
+ - [ ] Boogie
+ - [x] Brainfuck
+ - [ ] Brightscript
+ - [ ] C
+ - [ ] C#
+ - [ ] C++
+ - [ ] C2hs Haskell
+ - [ ] Cabal Config
+ - [ ] Cairo
+ - [ ] Cap'n Proto
+ - [ ] CartoCSS
+ - [ ] Ceylon
+ - [ ] Chapel
+ - [ ] Charity
+ - [ ] ChucK
+ - [ ] Cirru
+ - [ ] Clarion
+ - [ ] Clarity
+ - [ ] Classic ASP
+ - [ ] Clean
+ - [ ] Click
+ - [ ] CLIPS
+ - [ ] Clojure
+ - [ ] Closure Templates
+ - [ ] CMake
+ - [ ] COBOL
+ - [ ] CodeQL
+ - [ ] CoffeeScript
+ - [ ] ColdFusion
+ - [ ] ColdFusion CFC
+ - [ ] COLLADA
+ - [ ] Common Lisp
+ - [ ] Common Workflow Language
+ - [ ] Component Pascal
+ - [ ] Cool
+ - [ ] Coq
+ - [ ] Crystal
+ - [ ] CSON
+ - [ ] Csound
+ - [ ] Csound Document
+ - [ ] Csound Score
+ - [x] CSS
+ - [ ] CSV
+ - [ ] Cuda
+ - [ ] CUE
+ - [ ] Curry
+ - [ ] CWeb
+ - [ ] Cycript
+ - [ ] Cython
+ - [ ] D
+ - [ ] Dafny
+ - [ ] Darcs Patch
+ - [ ] Dart
+ - [ ] DataWeave
+ - [ ] Debian Package Control File
+ - [ ] DenizenScript
+ - [ ] Dhall
+ - [ ] DIGITAL Command Language
+ - [ ] DirectX 3D File
+ - [ ] DM
+ - [ ] Dockerfile
+ - [ ] Dogescript
+ - [ ] DTrace
+ - [ ] Dylan
+ - [ ] E
+ - [ ] Easybuild
+ - [ ] eC
+ - [ ] Ecere Projects
+ - [ ] ECL
+ - [ ] ECLiPSe
+ - [ ] Eiffel
+ - [ ] EJS
+ - [ ] Elixir
+ - [ ] Elm
+ - [ ] Emacs Lisp
+ - [ ] EmberScript
+ - [ ] EQ
+ - [ ] Erlang
+ - [ ] Euphoria
+ - [ ] F#
+ - [ ] F*
+ - [ ] Factor
+ - [ ] Fancy
+ - [ ] Fantom
+ - [ ] Faust
+ - [ ] Fennel
+ - [ ] FIGlet Font
+ - [ ] Filebench WML
+ - [x] Filterscript
+ - [ ] fish
+ - [ ] Fluent
+ - [ ] FLUX
+ - [x] Forth
+ - [ ] Fortran
+ - [ ] Fortran Free Form
+ - [ ] FreeBasic
+ - [ ] FreeMarker
+ - [ ] Frege
+ - [ ] Futhark
+ - [ ] G-code
+ - [ ] Game Maker Language
+ - [ ] GAML
+ - [ ] GAMS
+ - [ ] GAP
+ - [ ] GCC Machine Description
+ - [ ] GDB
+ - [ ] GDScript
+ - [ ] GEDCOM
+ - [ ] Genie
+ - [ ] Genshi
+ - [ ] Gentoo Ebuild
+ - [ ] Gentoo Eclass
+ - [ ] Gerber Image
+ - [ ] Gherkin
+ - [ ] Git Config
+ - [ ] Gleam
+ - [ ] GLSL
+ - [ ] Glyph
+ - [ ] Gnuplot
+ - [ ] Go
+ - [ ] Golo
+ - [ ] Gosu
+ - [ ] Grace
+ - [ ] Gradle
+ - [ ] Grammatical Framework
+ - [ ] GraphQL
+ - [ ] Graphviz (DOT)
+ - [ ] Groovy
+ - [ ] Groovy Server Pages
+ - [ ] GSC
+ - [x] Hack
+ - [ ] Haml
+ - [ ] Handlebars
+ - [ ] HAProxy
+ - [ ] Harbour
+ - [ ] Haskell
+ - [ ] Haxe
+ - [ ] HCL
+ - [ ] HiveQL
+ - [ ] HLSL
+ - [ ] HolyC
+ - [ ] hoon
+ - [ ] HTML
+ - [ ] HTML+ECR
+ - [ ] HTML+EEX
+ - [ ] HTML+ERB
+ - [ ] HTML+PHP
+ - [ ] HTML+Razor
+ - [ ] HTTP
+ - [ ] HXML
+ - [ ] Hy
+ - [x] HyPhy
+ - [ ] IDL
+ - [ ] Idris
+ - [ ] Ignore List
+ - [ ] IGOR Pro
+ - [ ] ImageJ Macro
+ - [ ] Inform 7
+ - [ ] INI
+ - [ ] Inno Setup
+ - [ ] Io
+ - [ ] Ioke
+ - [ ] Isabelle
+ - [ ] J
+ - [ ] Janet
+ - [ ] Jasmin
+ - [ ] Java
+ - [ ] Java Properties
+ - [ ] Java Server Pages
+ - [ ] JavaScript
+ - [ ] JavaScript+ERB
+ - [ ] Jest Snapshot
+ - [ ] JFlex
+ - [ ] Jinja
+ - [ ] Jison
+ - [ ] Jison Lex
+ - [ ] Jolie
+ - [ ] jq
+ - [ ] JSON
+ - [ ] JSON with Comments
+ - [ ] JSON5
+ - [ ] JSONiq
+ - [ ] JSONLD
+ - [ ] Jsonnet
+ - [ ] Julia
+ - [ ] Jupyter Notebook
+ - [ ] Kaitai Struct
+ - [ ] KakouneScript
+ - [ ] KiCad Layout
+ - [ ] KiCad Legacy Layout
+ - [ ] KiCad Schematic
+ - [ ] Kotlin
+ - [ ] KRL
+ - [ ] kvlang
+ - [ ] LabVIEW
+ - [ ] Lark
+ - [ ] Lasso
+ - [ ] Latte
+ - [ ] Lean
+ - [ ] Less
+ - [ ] Lex
+ - [ ] LFE
+ - [ ] LilyPond
+ - [ ] Limbo
+ - [ ] Liquid
+ - [ ] Literate Agda
+ - [ ] Literate CoffeeScript
+ - [ ] Literate Haskell
+ - [ ] LiveScript
+ - [ ] LLVM
+ - [ ] Logos
+ - [ ] Logtalk
+ - [ ] LOLCODE
+ - [ ] LookML
+ - [ ] LoomScript
+ - [ ] LSL
+ - [ ] Lua
+ - [ ] M
+ - [ ] M4
+ - [ ] M4Sugar
+ - [ ] Macaulay2
+ - [ ] Makefile
+ - [ ] Mako
+ - [ ] Markdown
+ - [ ] Marko
+ - [ ] Mask
+ - [ ] Mathematica
+ - [ ] MATLAB
+ - [ ] Max
+ - [ ] MAXScript
+ - [ ] mcfunction
+ - [ ] Mercury
+ - [ ] Metal
+ - [ ] MiniD
+ - [ ] MiniYAML
+ - [ ] Mint
+ - [ ] Mirah
+ - [ ] mIRC Script
+ - [ ] MLIR
+ - [ ] Modelica
+ - [ ] Modula-2
+ - [ ] Modula-3
+ - [ ] Module Management System
+ - [ ] Monkey
+ - [ ] Moocode
+ - [ ] MoonScript
+ - [ ] Motoko
+ - [ ] Motorola 68K Assembly
+ - [ ] MQL4
+ - [ ] MQL5
+ - [ ] MTML
+ - [ ] MUF
+ - [ ] mupad
+ - [ ] Mustache
+ - [ ] Myghty
+ - [ ] nanorc
+ - [ ] NASL
+ - [ ] NCL
+ - [ ] Nearley
+ - [ ] Nemerle
+ - [ ] nesC
+ - [ ] NetLinx
+ - [ ] NetLinx+ERB
+ - [ ] NetLogo
+ - [ ] NewLisp
+ - [ ] Nextflow
+ - [ ] Nginx
+ - [ ] Nim
+ - [ ] Nit
+ - [ ] Nix
+ - [ ] NSIS
+ - [ ] Nu
+ - [ ] NumPy
+ - [ ] Nunjucks
+ - [ ] NWScript
+ - [ ] Objective-C
+ - [ ] Objective-C++
+ - [ ] Objective-J
+ - [ ] ObjectScript
+ - [ ] OCaml
+ - [ ] Odin
+ - [ ] Omgrofl
+ - [ ] ooc
+ - [ ] Opa
+ - [ ] Opal
+ - [ ] Open Policy Agent
+ - [ ] OpenCL
+ - [ ] OpenEdge ABL
+ - [ ] OpenQASM
+ - [ ] OpenSCAD
+ - [ ] Org
+ - [ ] Ox
+ - [ ] Oxygene
+ - [ ] Oz
+ - [ ] P4
+ - [ ] Pan
+ - [ ] Papyrus
+ - [ ] Parrot
+ - [ ] Parrot Assembly
+ - [ ] Parrot Internal Representation
+ - [ ] Pascal
+ - [ ] Pawn
+ - [ ] PEG.js
+ - [ ] Pep8
+ - [ ] Perl
+ - [ ] PHP
+ - [ ] PicoLisp
+ - [ ] PigLatin
+ - [ ] Pike
+ - [ ] PLpgSQL
+ - [ ] PLSQL
+ - [ ] PogoScript
+ - [ ] Pony
+ - [ ] PostCSS
+ - [ ] PostScript
+ - [ ] POV-Ray SDL
+ - [ ] PowerBuilder
+ - [ ] PowerShell
+ - [ ] Prisma
+ - [ ] Processing
+ - [ ] Prolog
+ - [ ] Promela
+ - [ ] Propeller Spin
+ - [ ] Pug
+ - [ ] Puppet
+ - [ ] PureBasic
+ - [ ] PureScript
+ - [ ] Python
+ - [ ] Python traceback
+ - [ ] q
+ - [ ] Q#
+ - [ ] QMake
+ - [ ] QML
+ - [ ] Qt Script
+ - [ ] R
+ - [ ] Racket
+ - [ ] Ragel
+ - [ ] Raku
+ - [ ] RAML
+ - [ ] Rascal
+ - [ ] RDoc
+ - [ ] REALbasic
+ - [ ] Reason
+ - [ ] Rebol
+ - [ ] Red
+ - [ ] Redcode
+ - [ ] Regular Expression
+ - [ ] Ren'Py
+ - [ ] RenderScript
+ - [ ] ReScript
+ - [ ] reStructuredText
+ - [ ] REXX
+ - [ ] Ring
+ - [ ] Riot
+ - [ ] RMarkdown
+ - [ ] RobotFramework
+ - [ ] Roff
+ - [ ] Roff Manpage
+ - [ ] Rouge
+ - [ ] RPC
+ - [ ] RPGLE
+ - [ ] Ruby
+ - [ ] RUNOFF
+ - [ ] Rust
+ - [ ] Sage
+ - [ ] SaltStack
+ - [ ] SAS
+ - [ ] Sass
+ - [ ] Scala
+ - [ ] Scaml
+ - [ ] Scheme
+ - [ ] Scilab
+ - [ ] SCSS
+ - [ ] sed
+ - [ ] Self
+ - [ ] ShaderLab
+ - [ ] Shell
+ - [ ] ShellSession
+ - [ ] Shen
+ - [ ] Sieve
+ - [ ] Slash
+ - [ ] Slice
+ - [ ] Slim
+ - [ ] Smali
+ - [x] Smalltalk
+ - [ ] Smarty
+ - [ ] SmPL
+ - [ ] SMT
+ - [ ] Solidity
+ - [ ] SourcePawn
+ - [ ] SPARQL
+ - [ ] SQF
+ - [ ] SQL
+ - [ ] SQLPL
+ - [ ] Squirrel
+ - [ ] SRecode Template
+ - [ ] Stan
+ - [ ] Standard ML
+ - [ ] Starlark
+ - [ ] Stata
+ - [ ] StringTemplate
+ - [ ] Stylus
+ - [ ] SubRip Text
+ - [ ] SugarSS
+ - [ ] SuperCollider
+ - [ ] Svelte
+ - [ ] SVG
+ - [ ] Swift
+ - [ ] SWIG
+ - [ ] SystemVerilog
+ - [ ] Tcl
+ - [ ] Tcsh
+ - [ ] Terra
+ - [ ] TeX
+ - [ ] Textile
+ - [ ] Thrift
+ - [ ] TI Program
+ - [ ] TLA
+ - [ ] TOML
+ - [ ] TSQL
+ - [ ] TSV
+ - [ ] TSX
+ - [ ] Turing
+ - [ ] Twig
+ - [ ] TXL
+ - [ ] TypeScript
+ - [ ] Unified Parallel C
+ - [ ] Unity3D Asset
+ - [ ] Unix Assembly
+ - [ ] Uno
+ - [ ] UnrealScript
+ - [ ] UrWeb
+ - [ ] V
+ - [ ] Vala
+ - [ ] Valve Data Format
+ - [ ] VBA
+ - [ ] VBScript
+ - [ ] VCL
+ - [ ] Verilog
+ - [ ] VHDL
+ - [ ] Vim Help File
+ - [ ] Vim Script
+ - [ ] Vim Snippet
+ - [ ] Visual Basic .NET
+ - [ ] Volt
+ - [ ] Vue
+ - [ ] Vyper
+ - [ ] wdl
+ - [ ] Web Ontology Language
+ - [ ] WebAssembly
+ - [ ] WebIDL
+ - [ ] Wikitext
+ - [ ] Windows Registry Entries
+ - [ ] wisp
+ - [ ] Witcher Script
+ - [ ] Wollok
+ - [ ] World of Warcraft Addon Data
+ - [ ] X10
+ - [ ] xBase
+ - [ ] XC
+ - [ ] XML
+ - [ ] XML Property List
+ - [ ] Xojo
+ - [ ] Xonsh
+ - [ ] XProc
+ - [ ] XQuery
+ - [ ] XS
+ - [ ] XSLT
+ - [ ] Xtend
+ - [ ] Yacc
+ - [ ] YAML
+ - [ ] YARA
+ - [ ] YASnippet
+ - [ ] ZAP
+ - [ ] Zeek
+ - [ ] ZenScript
+ - [ ] Zephir
+ - [ ] Zig
+ - [ ] ZIL
+ - [ ] Zimpl
