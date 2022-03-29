@@ -7,6 +7,8 @@ on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
     branches: [ main ]
+    paths:
+      - '**/languages/'
   pull_request:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -34,3 +36,7 @@ jobs:
         with:
           name: checklist
           path: CHECKLIST.md
+      - name: Commit and push checklist
+        run: |
+          git commit CHECKLIST.md -m "Update Checklist.md"
+          git push origin main
