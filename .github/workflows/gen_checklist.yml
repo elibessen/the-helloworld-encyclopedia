@@ -31,11 +31,6 @@ jobs:
       - name: Create checklist markdown file
         run: |
           cd checklistgen && python check_list.py
-      - name: Save checklist file
-        uses: actions/upload-artifact@v3
-        with:
-          name: checklist
-          path: CHECKLIST.md
       - name: Commit and push checklist
         run: |
           git commit CHECKLIST.md -m "Update Checklist.md"
