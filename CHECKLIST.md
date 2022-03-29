@@ -1,6 +1,6 @@
 # Language Checklist
 
-***30** out of **553***
+***32** out of **553***
  - [ ] 1C Enterprise
  - [ ] 2-Dimensional Array
  - [ ] 4D
@@ -218,7 +218,7 @@
  - [ ] J
  - [ ] Janet
  - [ ] Jasmin
- - [ ] Java
+ - [x] Java
  - [ ] Java Properties
  - [ ] Java Server Pages
  - [x] JavaScript
@@ -369,7 +369,7 @@
  - [ ] PostScript
  - [ ] POV-Ray SDL
  - [ ] PowerBuilder
- - [ ] PowerShell
+ - [x] PowerShell
  - [ ] Prisma
  - [ ] Processing
  - [x] Prolog
