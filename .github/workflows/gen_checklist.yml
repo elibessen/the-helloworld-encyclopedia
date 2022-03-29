@@ -30,7 +30,7 @@ jobs:
         run: |
           cd checklistgen && python check_list.py
       - name: Save checklist file
-      - uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v3
         with:
           name: checklist
           path: CHECKLIST.md
