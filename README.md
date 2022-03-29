@@ -1,9 +1,21 @@
-# The helloworld encyclopedia
+<p align="center">
+  <a>
+    <img src="images/420px-logo.png" width="150px">
+  </a>
+</P>
 
-![License](https://img.shields.io/github/license/LCordial/the-helloworld-encyclopedia)
-![Issues](https://img.shields.io/github/issues/LCordial/the-helloworld-encyclopedia)
+<h1 align="center">
+The helloworld encyclopedia
+</h1>
 
-> An encyclopedia with every single colour coded language and hello world code snippets
+<p align="center">
+<img src="https://img.shields.io/github/license/LCordial/the-helloworld-encyclopedia">
+<img src="https://img.shields.io/github/issues/LCordial/the-helloworld-encyclopedia">
+</p>
+
+<p align="center">An encyclopedia with every single colour coded language with hello world code snippets.</p>
+
+___
 
 # Contribution
 
@@ -63,9 +75,9 @@ If you don't feel like contributing, please at least star this project :)
     </tr>
 </table>
 
-## Copyright and license
+## License
 
-Code copyright 2020-2022 [Eli B](https://github.com/LCordial/the-helloworld-encyclopedia/graphs/contributors) Code is released under [MIT License](https://github.com/LCordial/the-helloworld-encyclopedia/blob/main/LICENSE)
+Code is released under the [MIT License](https://github.com/LCordial/the-helloworld-encyclopedia/blob/main/LICENSE)
 
 ### Thanks to
 - https://github.com/ozh/github-colors <br>
