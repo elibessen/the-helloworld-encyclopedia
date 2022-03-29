@@ -31,7 +31,7 @@ jobs:
       - name: Create checklist markdown file
         run: |
           cd checklistgen && python check_list.py
-      - name: Commit and push checklist
-        run: |
-          git commit CHECKLIST.md -m "Update Checklist.md"
-          git push origin main
+      - name: Upload generated checklist
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update checklist file
