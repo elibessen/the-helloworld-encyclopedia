@@ -5,7 +5,6 @@ import os
 HELLO_WORLD_DIR     = "../languages/"       # Where the hello world files are stored
 CHECKLIST_OUT_DIR   = "../"                 # Where to output the constructed markdown document
 LANGUAGE_REF_FILE   = "./languages.yml"     # YAML file to cross-reference file extensions
-LANGUAGES_TO_COMP   = "../languages.json"   # JSON file which stores the languages to be completed
 CHECKLIST_FILE_NAME = "CHECKLIST.md"        # The name of the checklist markdown file
 
 # find a file based on the file extension (this needs to be updated to be more accurate)
@@ -18,10 +17,10 @@ def find_file(extension, directory):
         return " "
 
 # Generate the markdown file
-def make_checklist(list, ref, text):
-    total = len(list)                               # The total number of languages
+def make_checklist(ref, text):
+    total = len([*ref])                               # The total number of languages
     tally = 0                                       # The tally of languages completed
-    for i in list:                                  # For each element in the list of languages
+    for i in [*ref]:                                  # For each element in the list of languages
         exists = " "
         try:                                        # Sometimes a file will not have an extension (need to account for this case)
             extensions = ref[i]['extensions']
@@ -40,18 +39,16 @@ if __name__ == "__main__":
     print("Opening reference files...")
 
     language_ref    = open(LANGUAGE_REF_FILE, "r")
-    language_list   = open(LANGUAGES_TO_COMP, "r")
     print("done.")
 
     print("Parsing reference files...")
     language_ref    = yaml.load(language_ref, Loader=yaml.SafeLoader)
-    language_list   = list(json.load(language_list).keys())
     print("done.")
 
     print(f"Generating {CHECKLIST_FILE_NAME} file...")
     checklist_text  = ""
     
-    checklist_out   = make_checklist(language_list, language_ref, checklist_text)
+    checklist_out   = make_checklist(language_ref, checklist_text)
     checklist_text += "# Language Checklist\n\n"
     checklist_text += f"***{checklist_out[1]}** out of **{checklist_out[2]}***\n"
     checklist_text += checklist_out[0]
