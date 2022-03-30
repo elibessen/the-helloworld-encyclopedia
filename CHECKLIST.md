@@ -1,6 +1,6 @@
 # Language Checklist
 
-***40** out of **553***
+***41** out of **553***
  - [ ] 1C Enterprise
  - [ ] 2-Dimensional Array
  - [ ] 4D
@@ -465,7 +465,7 @@
  - [ ] Tcl
  - [ ] Tcsh
  - [ ] Terra
- - [ ] TeX
+ - [x] TeX
  - [ ] Textile
  - [ ] Thrift
  - [ ] TI Program
