@@ -1,6 +1,6 @@
 # Language Checklist
 
-***41** out of **553***
+***42** out of **553***
  - [ ] 1C Enterprise
  - [ ] 2-Dimensional Array
  - [ ] 4D
@@ -40,7 +40,7 @@
  - [ ] Awk
  - [ ] Ballerina
  - [ ] BASIC
- - [ ] Batchfile
+ - [x] Batchfile
  - [x] Beef
  - [ ] Befunge
  - [x] BibTeX
