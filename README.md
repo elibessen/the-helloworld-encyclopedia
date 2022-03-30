@@ -13,7 +13,7 @@ The helloworld encyclopedia
 <img src="https://img.shields.io/github/issues/LCordial/the-helloworld-encyclopedia">
 </p>
 
-<p align="center">An encyclopedia with every single colour coded language with hello world code snippets.</p>
+<p align="center">An encyclopedia of hello world code snippets in every single colour coded language.</p>
 
 # Contribution
 
