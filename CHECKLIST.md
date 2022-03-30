@@ -1,6 +1,6 @@
 # Language Checklist
 
-***32** out of **553***
+***40** out of **553***
  - [ ] 1C Enterprise
  - [ ] 2-Dimensional Array
  - [ ] 4D
@@ -43,7 +43,7 @@
  - [ ] Batchfile
  - [x] Beef
  - [ ] Befunge
- - [ ] BibTeX
+ - [x] BibTeX
  - [ ] Bicep
  - [ ] Bison
  - [ ] BitBake
@@ -101,7 +101,7 @@
  - [ ] CWeb
  - [ ] Cycript
  - [ ] Cython
- - [ ] D
+ - [x] D
  - [ ] Dafny
  - [ ] Darcs Patch
  - [ ] Dart
@@ -114,7 +114,7 @@
  - [ ] DM
  - [ ] Dockerfile
  - [ ] Dogescript
- - [ ] DTrace
+ - [x] DTrace
  - [ ] Dylan
  - [ ] E
  - [ ] Easybuild
@@ -171,7 +171,7 @@
  - [x] GLSL
  - [ ] Glyph
  - [ ] Gnuplot
- - [ ] Go
+ - [x] Go
  - [ ] Golo
  - [ ] Gosu
  - [ ] Grace
@@ -187,7 +187,7 @@
  - [ ] Handlebars
  - [ ] HAProxy
  - [ ] Harbour
- - [ ] Haskell
+ - [x] Haskell
  - [ ] Haxe
  - [ ] HCL
  - [ ] HiveQL
@@ -273,7 +273,7 @@
  - [ ] M4
  - [ ] M4Sugar
  - [ ] Macaulay2
- - [ ] Makefile
+ - [x] Makefile
  - [ ] Mako
  - [ ] Markdown
  - [ ] Marko
@@ -375,7 +375,7 @@
  - [x] Prolog
  - [ ] Promela
  - [ ] Propeller Spin
- - [ ] Pug
+ - [x] Pug
  - [ ] Puppet
  - [ ] PureBasic
  - [ ] PureScript
@@ -459,7 +459,7 @@
  - [ ] SuperCollider
  - [ ] Svelte
  - [ ] SVG
- - [ ] Swift
+ - [x] Swift
  - [ ] SWIG
  - [ ] SystemVerilog
  - [ ] Tcl
