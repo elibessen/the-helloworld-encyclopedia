@@ -1,6 +1,6 @@
 # Language Checklist
 
-***43** out of **637***
+***44** out of **637***
  - [ ] 1C Enterprise
  - [ ] 2-Dimensional Array
  - [ ] 4D
@@ -455,7 +455,7 @@
  - [ ] Roff
  - [ ] Roff Manpage
  - [ ] Rouge
- - [ ] Ruby
+ - [x] Ruby
  - [x] Rust
  - [ ] SAS
  - [ ] SCSS
