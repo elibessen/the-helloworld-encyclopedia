@@ -1,0 +1,19 @@
+\documentclass[11pt]{article}
+\usepackage{cite}
+\begin{filecontents}{references.bib}
+@helloworld{date,
+  date = 2022,
+  month = mar,
+  day = 30,
+}
+\end{filecontents}
+
+\begin{document}
+
+Hello World!
+
+\bibliography{mybib}{}
+
+\bibliographystyle{plain}
+
+\end{document}
