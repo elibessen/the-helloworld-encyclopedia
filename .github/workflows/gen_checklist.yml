@@ -30,7 +30,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Create checklist markdown file
         run: |
-          cd checklistgen && python check_list.py
+          cd scripts && python check_list.py
       - name: Upload generated checklist
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
