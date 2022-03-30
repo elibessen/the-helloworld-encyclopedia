@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img src="images/420px-logo.png" width="150px">
+    <img src="images/logo.png" width="150px">
   </a>
 </P>
 
@@ -14,8 +14,6 @@ The helloworld encyclopedia
 </p>
 
 <p align="center">An encyclopedia with every single colour coded language with hello world code snippets.</p>
-
-___
 
 # Contribution
 
