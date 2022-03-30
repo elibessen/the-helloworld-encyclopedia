@@ -1,6 +1,6 @@
 # Language Checklist
 
-***44** out of **637***
+***45** out of **637***
  - [ ] 1C Enterprise
  - [ ] 2-Dimensional Array
  - [ ] 4D
@@ -127,7 +127,7 @@
  - [ ] Diff
  - [ ] DirectX 3D File
  - [ ] Dockerfile
- - [ ] Dogescript
+ - [x] Dogescript
  - [ ] Dylan
  - [ ] E
  - [ ] E-mail
