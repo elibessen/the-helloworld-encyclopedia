@@ -1,6 +1,6 @@
 # Language Checklist
 
-***45** out of **637***
+***46** out of **637***
  - [ ] 1C Enterprise
  - [ ] 2-Dimensional Array
  - [ ] 4D
@@ -358,7 +358,7 @@
  - [ ] ObjDump
  - [ ] Object Data Instance Notation
  - [ ] ObjectScript
- - [ ] Objective-C
+ - [x] Objective-C
  - [ ] Objective-C++
  - [ ] Objective-J
  - [ ] Odin
