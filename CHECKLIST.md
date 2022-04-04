@@ -1,6 +1,6 @@
 # Language Checklist
 
-***46** out of **637***
+***47** out of **637***
  - [ ] 1C Enterprise
  - [ ] 2-Dimensional Array
  - [ ] 4D
@@ -237,7 +237,7 @@
  - [ ] Io
  - [ ] Ioke
  - [ ] Isabelle
- - [ ] J
+ - [x] J
  - [ ] JFlex
  - [ ] JSON
  - [ ] JSON with Comments
