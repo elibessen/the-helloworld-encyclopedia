@@ -1,6 +1,6 @@
 # Language Checklist
 
-***47** out of **637***
+***50** out of **637***
  - [ ] 1C Enterprise
  - [ ] 2-Dimensional Array
  - [ ] 4D
@@ -178,14 +178,14 @@
  - [x] GLSL
  - [ ] GN
  - [ ] GSC
- - [ ] Game Maker Language
+ - [x] Game Maker Language
  - [ ] Genero
  - [ ] Genero Forms
  - [ ] Genie
  - [ ] Genshi
  - [ ] Gentoo Ebuild
  - [ ] Gentoo Eclass
- - [ ] Gerber Image
+ - [x] Gerber Image
  - [ ] Gettext Catalog
  - [ ] Gherkin
  - [ ] Git Config
@@ -199,7 +199,7 @@
  - [ ] Grace
  - [ ] Gradle
  - [ ] Grammatical Framework
- - [ ] Graph Modeling Language
+ - [x] Graph Modeling Language
  - [ ] GraphQL
  - [ ] Graphviz (DOT)
  - [ ] Groovy
