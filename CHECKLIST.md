@@ -1,6 +1,6 @@
 # Language Checklist
 
-***50** out of **637***
+***51** out of **637***
  - [ ] 1C Enterprise
  - [ ] 2-Dimensional Array
  - [ ] 4D
@@ -99,7 +99,7 @@
  - [ ] Common Workflow Language
  - [ ] Component Pascal
  - [ ] Cool
- - [ ] Coq
+ - [x] Coq
  - [ ] Cpp-ObjDump
  - [ ] Creole
  - [ ] Crystal
