@@ -1,6 +1,6 @@
 # Language Checklist
 
-***51** out of **637***
+***52** out of **637***
  - [ ] 1C Enterprise
  - [ ] 2-Dimensional Array
  - [ ] 4D
@@ -70,7 +70,7 @@
  - [ ] COLLADA
  - [ ] CSON
  - [x] CSS
- - [ ] CSV
+ - [x] CSV
  - [ ] CUE
  - [ ] CWeb
  - [ ] Cabal Config
