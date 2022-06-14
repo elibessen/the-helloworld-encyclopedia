@@ -1,6 +1,6 @@
 # Language Checklist
 
-***52** out of **637***
+***53** out of **637***
  - [ ] 1C Enterprise
  - [ ] 2-Dimensional Array
  - [ ] 4D
@@ -141,7 +141,7 @@
  - [ ] Ecere Projects
  - [ ] Edje Data Collection
  - [ ] Eiffel
- - [ ] Elixir
+ - [x] Elixir
  - [ ] Elm
  - [ ] Emacs Lisp
  - [ ] EmberScript
