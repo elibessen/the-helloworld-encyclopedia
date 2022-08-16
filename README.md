@@ -39,9 +39,9 @@ If you don't feel like contributing, please at least star this project :)
     <tr>
       <td valign="top" width="140">
         <p align="center">
-          <img height="100px" alt="Eli B" src="https://github.com/LCordial.png?s=150">
+          <img height="100px" alt="Eli B" src="https://github.com/elibessen.png?s=150">
         </p>
-        <p align="center"><a href="https://github.com/LCordial">Eli Bessen</a></p>
+        <p align="center"><a href="https://github.com/elibessen">Eli Bessen</a></p>
         <p align="center">
           <sup><a href="#he-plans-stuff" title="Ideas, Planning & Feedback">🤔</a></sup>
           <sup><a href="#he-codes-stuff" title="Code">💻</a></sup>
